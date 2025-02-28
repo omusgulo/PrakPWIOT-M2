@@ -1,0 +1,64 @@
+header{
+    text-align: center;
+    padding: 20px 0;
+    color: rgba(0, 0, 0, 0.8);
+    background: #ffffff;
+}
+nav {
+    text-align: center;
+    color: #fff;
+    padding: 10px;
+    background: rgba(235, 151, 5, 0.8);
+    margin-bottom: 20px;
+
+}
+body{
+    font-family: 'Times New Roman', Times, serif;
+    margin: 0;
+    padding: 0;
+    background: url(Lamp.jpg);
+    background-color: turquoise;
+    background-size: cover;
+
+}
+.container{
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+}
+nav .a { 
+    color: #fb0000;
+    text-decoration: none;
+    margin: 0 15px;
+    font-weight: bold;
+}
+.content{
+    background: rgba(235, 151, 5, 0.8);
+    margin-top: auto;
+    padding: 20px;
+    text-align: center;
+    visibility: visible;
+    border-radius: 10px;
+    margin-bottom: 20px;
+
+}
+footer{
+    text-align: center;
+    padding: 10px;
+    background: rgba(192, 56, 56, 0.8);
+    color: #fff;
+    margin-top: 10px;
+
+}
+h1{
+    margin: 0;
+    font-size: 2em;
+}
+h2{
+    margin: 0 0 10px 0;
+    font-size: 2em;
+}
+p{
+    margin: 10px 0;
+    font-size: 1.2em;
+}
